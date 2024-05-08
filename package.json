@@ -1,0 +1,9 @@
+{
+    "name": "RESTRequestDelphi",
+    "version": "4.0.15",
+    "main": "index.js",
+    "repository": "https://github.com/solussaude/RESTRequestDelphi.git",
+    "license": "MIT",
+    "packageManager": "yarn@4.2.1",
+    "private": true
+}
